@@ -1,0 +1,22 @@
+# Modelos grandes (>100MB, exceden límite de GitHub)
+best_vgg16_*.pth
+
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Script temporal
+patch_notebook.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
